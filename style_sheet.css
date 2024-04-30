@@ -1,0 +1,32 @@
+h1{
+	
+	text-align: center;
+	color: rgba(255, 255, 255);
+}
+	
+
+
+
+p{
+	font-size: 15 pt;
+	font-family: arial;
+ 
+	
+}
+
+li{
+	font-size: 15 pt;
+	font-family: arial;
+ 
+	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+body {
+  background: linear-gradient( to bottom right, rgba(69, 179, 231), rgba(255, 255, 255));
+}

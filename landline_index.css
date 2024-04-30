@@ -1,0 +1,55 @@
+
+article{
+		-webkit-column-count: 3;
+		-webkit-column-gap: 21px;
+
+		-moz-column-count: 3;
+		-moz-column-gap: 21px;
+
+		column-count: 3;
+		column-gap: 21px;
+	}
+	
+h1{		
+		
+		text-align: left;
+		font-size: 250%;
+		font-weight: bold;
+		-webkit-column-span: all;
+		-moz-column-span: all;
+	}
+
+table{
+	
+	font-family: Arial;
+	color: gold;
+	padding : 10px;
+	width : 100%;
+}
+
+tr, th, td {
+	text-align: center;
+	vertical-align: top;
+	padding : 10px;
+}
+
+.center{
+	text-decoration: underline 2px;
+	width: 40%;
+	border: solid;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+body{ 
+	background-image: url(pics/background_1.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.link {color:white;}
+.link:hover {color:red;}
+
+
+	
